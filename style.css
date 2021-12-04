@@ -30,7 +30,8 @@ h1 {
   padding: 20px;
   background: #fff;
   border-top:  10px solid #1BA39C;
-  border-bottom: 10px solid #1BA39C;
+  border-bottom: 15px solid #1BA39C;
+  border-radius: 8px
 }
 
 .form-box .input-div{
@@ -58,12 +59,12 @@ h1 {
   background: #1BA39C;
   color: #fff;
   font-size: 20px;
-  /*! margin-bottom: 10px; */
 }
 @media screen and (max-width:340px){
     .form-box {
         width: 100vw;
-        height: 100vh
+        height: 100vh;
+      border-radius: 0px;
     }
   }
 }
