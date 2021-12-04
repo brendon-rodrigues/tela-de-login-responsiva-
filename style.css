@@ -29,6 +29,8 @@ h1 {
   box-sizing: border-box;
   padding: 20px;
   background: #fff;
+  border-top:  10px solid #1BA39C;
+  border-bottom: 10px solid #1BA39C;
 }
 
 .form-box .input-div{
